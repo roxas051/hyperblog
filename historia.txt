@@ -6,8 +6,4 @@ tobilon quiere comer boli aguado
 tobi boss
 volviendo en todo el mundo
 
-<<<<<<< HEAD
 hoy hablaremosd e su historia.
-=======
-Mañana hablaremos sobre su vida laboral
->>>>>>> cabecera
